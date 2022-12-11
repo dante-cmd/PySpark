@@ -1,0 +1,61 @@
+[{
+    "CustomerId": 1001,
+    "Address": "Avenida Iquitos 876",
+    "Age": 37,
+    "CellPhone": 981914173
+  },
+  {
+    "CustomerId": 1002,
+    "Address": "Avenida San Juan de Dios 126",
+    "Age": 34,
+    "CellPhone": 969461498
+  },
+  {
+    "CustomerId": 1003,
+    "Address": "Avenida Santa Rosa (San Juan de Lurigancho) 1086",
+    "Age": 42,
+    "CellPhone": 998535877
+  },
+  {
+    "CustomerId": 1004,
+    "Address": "Avenida Venezuela (Lima) 105",
+    "Age": 44,
+    "CellPhone": 979577766
+  },
+  {
+    "CustomerId": 1005,
+    "Address": "Avenida Alfonso Ugarte 251",
+    "Age": 46,
+    "CellPhone": 958015467
+  },
+  {
+    "CustomerId": 1006,
+    "Address": "Avenida Nicolás Ayllón 829",
+    "Age": 45,
+    "CellPhone": 952504571
+  },
+  {
+    "CustomerId": 1007,
+    "Address": "Avenida José Larco 1160",
+    "Age": 36,
+    "CellPhone": 971528814
+  },
+  {
+    "CustomerId": 1008,
+    "Address": "Avenida España (Lima) 145",
+    "Age": 49,
+    "CellPhone": 924347370
+  },
+  {
+    "CustomerId": 1009,
+    "Address": "Avenida Los Héroes (San Juan de Miraflores) 503",
+    "Age": 40,
+    "CellPhone": 938136544
+  },
+  {
+    "CustomerId": 1010,
+    "Address": "Avenida Roosevelt (Lima) 1141",
+    "Age": 48,
+    "CellPhone": 929153210
+  }
+]
